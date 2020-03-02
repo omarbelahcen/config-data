@@ -4,7 +4,7 @@ my:
     values: One, Two, Three, Four
 
 db:
-  connection: connection-string-from-config-server
-  host: 127.0.0.1
+  connection: connection-string-from-config-server-dev
+  host: 0.0.0.0
   port: 1200
       
