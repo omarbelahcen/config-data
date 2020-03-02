@@ -1,10 +1,2 @@
 my:
-  greeting: Hello World from config server with profile DEV
-  list:
-    values: One, Two, Three, Four
-
-db:
-  connection: connection-string-from-config-server-dev
-  host: 0.0.0.0
-  port: 1200
-      
+  value: DEV DEV DEV
