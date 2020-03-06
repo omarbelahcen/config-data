@@ -2,7 +2,3 @@ db:
   connection: ConnectionFromConfigServer
   host: http://UrlFromConfigServer.com
   port: 1111
-
-my:
-  list:
-    values: Un, deux, trois
