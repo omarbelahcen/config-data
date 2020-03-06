@@ -1,9 +1,0 @@
-my:
-  greeting: Hello World from config server with profile LOCAL
-  list:
-    values: One, Two, Three, Four
-
-db:
-  connection: connection-string-from-config-server-local
-  host: 1.1.1.1
-  port: 1200
