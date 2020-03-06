@@ -3,8 +3,6 @@ db:
   host: http://UrlFromConfigServer.com
   port: 1111
 
-
-
 my:
   list:
-    values: 1, 2, 3
+    values: Un, deux, trois
